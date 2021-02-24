@@ -1,1 +1,3 @@
 THIS IS JUST A TEST DOC
+I have just created few lines for checking purpose
+To check staging differences in file
